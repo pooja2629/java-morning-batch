@@ -1,6 +1,7 @@
 package string;
 //string types- litral
 // using new keyword
+//string constant pull(memory location)
 public class StringDemo {
     public static void main(String[] args) {
         String s= "pooja";  // litral
